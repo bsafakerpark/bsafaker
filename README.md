@@ -1,2 +1,2 @@
 # bsafaker
-bsafakerforjava
+$bsafakerforjava
